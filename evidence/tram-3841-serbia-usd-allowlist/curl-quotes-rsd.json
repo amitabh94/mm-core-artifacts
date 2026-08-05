@@ -1,0 +1,1 @@
+{"statusCode":500,"message":"Cannot read properties of undefined (reading 'replace')","timestamp":"2026-08-05T20:55:54.689Z","path":"/v2/quotes?regionId=%2fregions%2frs&paymentMethodId=%2fpayment-methods%2fdebit-credit-card&cryptoCurrencyId=%2fcryptoCurrencies%2f1&fiatCurrencyId=%2fcurrencies%2ffiat%2frsd&amount=100&sdkVersion=2.1.6&context=mobile-ios"}

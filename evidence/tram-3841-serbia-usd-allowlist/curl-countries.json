@@ -1,0 +1,24 @@
+{
+  "by": {
+    "RS": "USD",
+    "BA": "USD",
+    "AL": "USD",
+    "UA": "USD",
+    "AM": "USD",
+    "FR": "EUR",
+    "US": "USD"
+  },
+  "ver": {
+    "product": "On-Ramp",
+    "service": "On-Ramp API",
+    "version": "1.77.1",
+    "features": [
+      "regions",
+      "orders",
+      "analytics",
+      "reports",
+      "auth"
+    ]
+  },
+  "providers": 6
+}

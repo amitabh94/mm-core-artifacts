@@ -1,0 +1,29 @@
+{
+  "pass": true,
+  "inputCurrencyShown": "USD",
+  "priorInputCurrency": "RSD",
+  "ocrBuildQuote": "$100",
+  "ocrPrior": "RSD 100",
+  "userRegionCurrency": "USD",
+  "providers": [
+    "ramp-network-staging",
+    "mockprovider-staging",
+    "coinbase-staging",
+    "transak-staging",
+    "banxa-staging",
+    "moonpay-staging"
+  ],
+  "providerCount": 6,
+  "deployRun": "https://github.com/consensys-vertical-apps/va-mmcx-onramp-api/actions/runs/31045403313",
+  "commit": "c9becf3fca5d4cde3eef8b6ed43be3c9cd9f9446",
+  "imageTag": "v1.77.1-cb1c433d",
+  "currencies": {
+    "RS": "USD",
+    "BA": "USD",
+    "AL": "USD",
+    "UA": "USD",
+    "AM": "USD",
+    "FR": "EUR",
+    "US": "USD"
+  }
+}

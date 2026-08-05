@@ -1,0 +1,18 @@
+4:01
+<
+Buy ETH
+on Ethereum
+$100
+Apple Pay Y
+Providers
+Quotes displayed for Apple Pay.
+Moonpay (Staging)
+Most reliable
+0.05195 ETH
+$99.70
+Ramp Network (Staging)
+0.05013 ETH
+$96.21
+Transak (Staging)
+0.048797 ETH
+$93.65
