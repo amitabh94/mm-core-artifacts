@@ -1,0 +1,24 @@
+{
+  "account": {
+    "address": "0x5cfe73b6021e818b776b421b1c4db2474086a7e1",
+    "id": "d5e45e4a-3b04-4a09-a5e1-39762e5c6be4",
+    "name": "Account 1"
+  },
+  "agenticPresent": true,
+  "route": {
+    "key": "Checkout-UChlVFpuNCeiglFC0dZ7y",
+    "name": "Checkout",
+    "params": {
+      "cryptocurrency": "ETH",
+      "currency": "USD",
+      "network": "1",
+      "providerCode": "transak-staging",
+      "providerName": "Transak (Staging)",
+      "providerType": "RAMPS_V2",
+      "url": "https://global.transak.com?apiKey=0f4beee9-e541-442c-b6bc-bc41a442dfc3&sessionId=eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJvdHQiOiIyMzg4NjAzNDU1ZTY2MjExOGNlMzdlNjZhYzA0MzEzYiIsImlhdCI6MTc4NTk2NDg1MywiZXhwIjoxNzg1OTY1MTUzfQ.YCmRjF0NZKR4RSfCjdeta__Btvc94QLirfcazCbEDyjadLWzneqf4t0po3Yztst98MJI9aKr28TRK6fCX106CQ",
+      "walletAddress": "0x5CfE73b6021E818B776b421B1c4Db2474086a7e1"
+    }
+  },
+  "deviceName": "Dev1",
+  "platform": "ios"
+}

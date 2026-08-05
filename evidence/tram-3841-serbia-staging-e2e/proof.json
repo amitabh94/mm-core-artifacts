@@ -1,0 +1,21 @@
+{
+  "pass": false,
+  "verdict": "FAIL",
+  "reason": "Transak MiCA region block after OTP \u2014 not onboarding new users in Serbia",
+  "provider_order_id": null,
+  "buildQuoteCurrency": "USD",
+  "userRegion": {
+    "regionCode": "rs",
+    "currency": "USD",
+    "country": "Serbia"
+  },
+  "checkout": {
+    "currency": "USD",
+    "providerCode": "transak-staging",
+    "providerName": "Transak (Staging)"
+  },
+  "otpCompleted": true,
+  "blockerScreenshot": "screenshots/04b-after-otp-load.png",
+  "device": "Dev1 20F80808-12DA-45F2-8FE8-7B9D152CABBF",
+  "api": "https://on-ramp.dev-api.cx.metamask.io"
+}

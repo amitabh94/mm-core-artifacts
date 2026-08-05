@@ -1,0 +1,26 @@
+{
+  "country": {
+    "currency": "USD",
+    "defaultAmount": 100,
+    "flag": "🇷🇸",
+    "id": "rs",
+    "isoCode": "RS",
+    "name": "Serbia",
+    "phone": {
+      "placeholder": "60 1234567",
+      "prefix": "+381",
+      "template": "XX XXXXXXX"
+    },
+    "quickAmounts": [
+      20,
+      50,
+      100
+    ],
+    "supported": {
+      "buy": true,
+      "sell": true
+    }
+  },
+  "regionCode": "rs",
+  "state": null
+}
