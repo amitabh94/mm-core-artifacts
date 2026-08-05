@@ -1,0 +1,23 @@
+{
+  "method": {
+    "apiHost": "METAMASK_ENVIRONMENT=dev \u2192 getRampsEnvironment()=Development \u2192 https://on-ramp.dev-api.cx.metamask.io",
+    "serbiaRegion": "CDP eval-async Engine.context.RampsController.setUserRegion('rs') (Settings RegionSelector UI navigate blocked from WalletView; same controller API as UI picker)",
+    "device": "Dev1 20F80808-12DA-45F2-8FE8-7B9D152CABBF iOS 26.2",
+    "mobileBranch": "main"
+  },
+  "userRegion": {
+    "regionCode": "rs",
+    "name": "Serbia",
+    "currency": "RSD",
+    "isoCode": "RS"
+  },
+  "providersInControllerState": [
+    "mockprovider-staging",
+    "banxa-staging",
+    "ramp-network-staging",
+    "transak-staging",
+    "coinbase-staging",
+    "moonpay-staging"
+  ],
+  "devCurlProvidersCount": 6
+}

@@ -1,0 +1,12 @@
+{
+  "count": 6,
+  "ids": [
+    "mockprovider-staging",
+    "banxa-staging",
+    "ramp-network-staging",
+    "transak-staging",
+    "coinbase-staging",
+    "moonpay-staging"
+  ],
+  "region": "rs"
+}
